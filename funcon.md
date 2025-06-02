@@ -4,7 +4,7 @@
 ## task 1
 - [ ] tick if second task is completed
 - [ ] tick if the above task is fulfilled
-- [x] tick if all tasks are met
+- [ ] tick if all tasks are met
 
 ## javascript
 ```js
